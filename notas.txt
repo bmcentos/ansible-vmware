@@ -1,0 +1,2 @@
+- role deploy
+	- Realiza deploy de maquina virtual no vcenter
